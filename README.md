@@ -1,2 +1,2 @@
 # Multiple-Client-Chat-Program
-A program with one server and multiple clients chat using Sockets in Java.
+A chat program with one server and multiple clients using Sockets in Java.
